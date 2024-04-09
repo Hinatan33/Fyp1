@@ -1,14 +1,14 @@
 {
     "categories": [
         {
-            "name": "Music Videos",
+            "name": "Sports Videos",
             "videos":
             [
                 {
                     "description": "Full Game Highlights for Los Angeles Lakers vs Minnesota Timberwolves during April 7 2024",
                     "sources": ["https://firebasestorage.googleapis.com/v0/b/utar-fy1.appspot.com/o/Los%20Angeles%20Lakers%20vs%20Minnesota%20Timberwolves%20Full%20Game%20Highlights%20_%20April%207,%202024%20_%20FreeDawkins.mp4?alt=media&token=88520d5b-93d4-4082-a8c4-06f7f8d1ff7a"],
                     "subtitle": "By YouTube",
-                    "thumb": "https://firebasestorage.googleapis.com/v0/b/utar-fy1.appspot.com/o/Lakers%20vs%20Timberwolfs%20highlight%207-4-2024.jpg?alt-media&token=b5348684-8812-4178-8f0e-a3a7c6b345ae",
+                    "thumb": "https://firebasestorage.googleapis.com/v0/b/utar-fy1.appspot.com/o/LCT_7-4.jpg?alt=media&token=6758c27c-b86f-49ec-988a-5189a676af97",
                     "title": "Los Angeles Lakers vs Minnesota Timberwolves Full Game Highlights April 7 2024"
                     
                 }
